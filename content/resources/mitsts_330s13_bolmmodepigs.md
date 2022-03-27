@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: bfd072a8-42e4-98ae-757f-afc875cf1871
 resourcetype: Document
 title: 'The Pigs That Therefore We Are: Anatomy, Biology, and Transplantation'
 uid: 43fbf066-0f36-fef5-7469-01ec9e331cd3
