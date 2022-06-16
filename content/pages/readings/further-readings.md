@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides a list of optional readings for the course, organized
+  by lecture topic.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
