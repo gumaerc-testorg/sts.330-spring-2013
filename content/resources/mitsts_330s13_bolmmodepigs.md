@@ -5,6 +5,7 @@ file: /courses/sts-330-history-and-anthropology-of-medicine-and-biology-spring-2
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'The Pigs That Therefore We Are: Anatomy, Biology, and Transplantation'
 uid: 43fbf066-0f36-fef5-7469-01ec9e331cd3
 ---
 Example of student work for a writing assignment.
-
