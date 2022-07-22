@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times, prerequisites, requirements, grading, and the schedule of lecture
+  topics and assignment due dates.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 805c9c65-7dfd-a733-048b-6047b1f24e3c
 ---
@@ -244,4 +249,4 @@ Students should be aware that in this course collaboration on the two writing as
 Required Texts
 --------------
 
-Please see the [Readings Section]({{< baseurl >}}/pages/readings) for a list of required texts.
+Please see the {{% resource_link 620ec072-d2d3-eca9-d7e2-fdd21236359a "Readings Section" %}} for a list of required texts.

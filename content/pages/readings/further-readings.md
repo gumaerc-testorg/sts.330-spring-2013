@@ -1,6 +1,12 @@
 ---
 content_type: page
+description: This section provides a list of optional readings for the course, organized
+  by lecture topic.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 parent_title: Readings
+parent_type: CourseSection
 parent_uid: 620ec072-d2d3-eca9-d7e2-fdd21236359a
 title: Further Readings
 uid: 3271340d-4bc5-81f6-8188-e4d8b086e414

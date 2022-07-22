@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides brief descriptions of the course assignments and
+  an example of student work.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: bfd072a8-42e4-98ae-757f-afc875cf1871
 ---
@@ -22,4 +27,4 @@ Present on your paper, based on your prospectus from session 8.
 Sample Paper
 ------------
 
-[Bolman, Bradley G. The Pigs That Therefore We Are: Anatomy, Biology, and Transplantation (PDF)]({{< baseurl >}}/resources/mitsts_330s13_bolmmodepigs)
+{{% resource_link 43fbf066-0f36-fef5-7469-01ec9e331cd3 "Bolman, Bradley G. The Pigs That Therefore We Are: Anatomy, Biology, and Transplantation (PDF)" %}}
