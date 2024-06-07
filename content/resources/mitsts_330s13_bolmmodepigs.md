@@ -2,6 +2,7 @@
 content_type: resource
 description: Example of student work for a writing assignment.
 file: /courses/sts-330-history-and-anthropology-of-medicine-and-biology-spring-2013/43fbf0660f36fef5746901ec9e331cd3_MITSTS_330S13_BolmModePigs.pdf
+file_size: 278339
 file_type: application/pdf
 learning_resource_types:
 - Assignments
